@@ -13,7 +13,12 @@ cd dash-oil-py
 pip install -r requirements.txt
 
 ```
+### Create the .env file 
+-----
 
+KEY = "Acess_token"
+
+-----
 Run the app
 
 ```
