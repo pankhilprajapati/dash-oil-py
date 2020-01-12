@@ -1,4 +1,4 @@
-# Dash Natural Gas Well Production
+# Dashboard of Natural Gas and Petroleum Well Production
 App show real time data visualization using flask, plotly, gunicorn .. etc. 
 DATASET - Oil_and_Gas_Annual_Production__1985_to_2000
 ## Getting Started
